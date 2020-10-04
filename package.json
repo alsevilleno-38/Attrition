@@ -1,0 +1,25 @@
+{
+  "name": "Attrition",
+  "version": "1.0.0",
+  "description": "Attrition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon start.js",
+    "debug": "nodemon start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alsevilleno-38/Attrition.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alsevilleno-38/Attrition/issues"
+  },
+  "homepage": "https://github.com/alsevilleno-38/Attrition#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
